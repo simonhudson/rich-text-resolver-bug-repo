@@ -1,6 +1,6 @@
 Repro for
 
-1. `git@github.com:simonhudson/rich-text-resolver-bug-repo.git`
+1. `git clone git@github.com:simonhudson/rich-text-resolver-bug-repo.git`
 2. `npm install`
 3. `npm start`
 
