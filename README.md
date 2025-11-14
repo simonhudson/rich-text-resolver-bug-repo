@@ -5,6 +5,7 @@ Repro for
 3. `npm start`
 
 **Expected**
+
 `console.log` should output parsed rich text
 
 **Actual**
