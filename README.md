@@ -1,4 +1,4 @@
-Repro for
+Repro for https://github.com/kontent-ai/rich-text-resolver-js/issues/66
 
 1. `git clone git@github.com:simonhudson/rich-text-resolver-bug-repo.git`
 2. `npm install`
